@@ -9,33 +9,26 @@ sections:
     pricingplans:
       - title: Basic
         price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: >-
+          * Lorem ipsum dolor sit amet* Mauris a mi tincidunt* Suspendisse ut
+          lacus* Etiam eget dui a augue
         actions:
           - label: Order Now
             url: /signup
       - title: Professional
         price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+        details: >-
+          * Curabitur non nunc mollis* Duis a purus nec ligula* Pellentesque sit
+          amet* Fusce tempus mi vitae* Nullam sollicitudin ante
         highlight: true
         actions:
           - label: Order Now
             url: /signup
       - title: Enterprise
         price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+        details: >-
+          * Vestibulum non eros quis* Aenean iaculis lorem* Mauris eleifend
+          sapien* Phasellus lobortis risus
         actions:
           - label: Order Now
             url: /signup
@@ -56,7 +49,7 @@ sections:
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
+          eget velit.
       - question: Sed scelerisque in ipsum eu sollicitudin?
         answer: >-
           Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
@@ -68,7 +61,8 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 menus:
   main:
-    title: Pricing
+    title: Pricing9
     weight: 3
 layout: landing
 ---
+
