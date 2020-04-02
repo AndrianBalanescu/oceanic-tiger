@@ -59,6 +59,18 @@ sections:
           luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
           lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+  - type: dsf
+    section_id:
+    title: asdffa
+    subtitle: asdad
+    bg: adasd
+    faqitems:
+      - question: adsasdasd
+        answer: asdasd
+      - question: asdasdasd
+        answer: asdasd
+      - question: asdasdasdasd
+        answer: asdadasd
 menus:
   main:
     title: Pricing9
